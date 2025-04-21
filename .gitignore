@@ -1,0 +1,5 @@
+.idea/
+postgres_data/
+mongo_data/
+redis_data/
+bin/

@@ -1,0 +1,6 @@
+.idea/
+bin/
+postgres_data/
+mongo_data/
+redis_data/
+deployments/
